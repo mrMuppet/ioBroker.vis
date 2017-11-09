@@ -72,7 +72,7 @@ $.extend(systemDictionary, {
     "Generate":             {"en": "Generate",          "de": "Generieren",             "ru": "Создать"},
     "Attribute for OID:":   {"en": "Attribute for OID:", "de": "Attribute für OID:",    "ru": "Атрибут для OID:"},
     "Export as zip:":       {"en": "Export as zip:",    "de": "Exportieren als ZIP:",   "ru": "Экспорт ZIP:"},
-    "Make template":        {"en": "Make template",     "de": "Vorlage erzeigen",       "ru": "Создать шаблон"},
+    "Make template":        {"en": "Make template",     "de": "Vorlage erzeugen",       "ru": "Создать шаблон"},
     "Group from widget":    {"en": "Group from widget", "de": "Group from widget",      "ru": "Group from widget"},
     "Description:":         {"en": "Description:",      "de": "Beschreibung:",          "ru": "Описание:"},
     "Template Settings":    {"en": "Template Settings", "de": "Vorlage-Einstellungen",  "ru": "Свойства шаблона"},
